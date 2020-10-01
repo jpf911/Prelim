@@ -1,28 +1,26 @@
 ------ Here is the Data that has been scraped in the webscraper website-------
 
-   # First Name Last Name User Name
-0  1       Mark      Otto      @mdo
-1  2      Jacob  Thornton      @fat
-2  3      Larry  the Bird  @twitter
 
-   # First Name Last Name User Name
-0  4      Harry    Potter       @hp
-1  5       John      Snow    @dunno
-2  6        Tim      Bean  @timbean
+Num:1,Firstname:Mark,Last Name:Otto,Username:@mdo
+Num:2,Firstname:Jacob,Last Name:Thornton,Username:@fat
+Num:3,Firstname:Larry,Last Name:the Bird,Username:@twitter
 
-   # First Name Last Name User Name
-0  1       Mark      Otto      @mdo
-1  2      Jacob  Thornton      @fat
-2  3      Larry  the Bird  @twitter
+Num:4,Firstname:Harry,Last Name:Potter,Username:@hp
+Num:5,Firstname:John,Last Name:Snow,Username:@dunno
+Num:6,Firstname:Tim,Last Name:Bean,Username:@timbean
 
-   # First Name Last Name User Name
-0  -          -         -         -
-1  1       Mark      Otto      @mdo
-2  2      Jacob  Thornton      @fat
-3  3      Larry  the Bird  @twitter
+Num:1,Firstname:Mark,Last Name:Otto,Username:@mdo
+Num:2,Firstname:Jacob,Last Name:Thornton,Username:@fat
+Num:3,Firstname:Larry,Last Name:the Bird,Username:@twitter
+
+Num:-,Firstname:-,Last Name:-,Username:-
+Num:1,Firstname:Mark,Last Name:Otto,Username:@mdo
+Num:2,Firstname:Jacob,Last Name:Thornton,Username:@fat
+Num:3,Firstname:Larry,Last Name:the Bird,Username:@twitter
 
 
 ------ Davao City Weather for October 1-10----
+
 Day: Thu 01 | Day	Humidity: 20%	UV Index: 4 of 10
 
 Day: Thu 01 | Night	Humidity: 72%	UV Index: 0 of 10
@@ -72,33 +70,7 @@ Day: Sat 10 | Day	Humidity: 91%	UV Index: Extreme
 
 Day: Sat 10 | Night	Humidity: 50%	UV Index: 0 of 10
 	Moonrise: 23:58	Moonset: 11:56
-
-Day: Sun 11 | Day	Humidity: 50%	UV Index: 10 of 10
-
-Day: Sun 11 | Night	Humidity: 73%	UV Index: 0 of 10
-	Moonrise: --	Moonset: 12:49
-
-Day: Mon 12 | Day	Humidity: 50%	UV Index: 10 of 10
-
-Day: Mon 12 | Night	Humidity: 91%	UV Index: 0 of 10
-	Moonrise: 00:54	Moonset: 13:43
-
-Day: Tue 13 | Day	Humidity: 60%	UV Index: 10 of 10
-
-Day: Tue 13 | Night	Humidity: 60%	UV Index: 0 of 10
-	Moonrise: 01:51	Moonset: 14:34
-
-Day: Wed 14 | Day	Humidity: 75%	UV Index: Extreme
-
-Day: Wed 14 | Night	Humidity: 60%	UV Index: 0 of 10
-	Moonrise: 02:47	Moonset: 15:25
-
-Day: Thu 15 | Day	Humidity: 92%	UV Index: 10 of 10
-
-Day: Thu 15 | Night	Humidity: 50%	UV Index: 0 of 10
-	Moonrise: 03:44	Moonset: 16:14
-  
-  
+	
   
 ------ Cebu City Weather for October 1-10----
 Day: Thu 01 | Night	Humidity: 50%	UV Index: 0 of 10
@@ -148,36 +120,13 @@ Day: Sat 10 | Day	Humidity: 70%	UV Index: Extreme
 
 Day: Sat 10 | Night	Humidity: 70%	UV Index: 0 of 10
 	Moonrise: 23:59	Moonset: 12:09
-
-Day: Sun 11 | Day	Humidity: 75%	UV Index: Extreme
-
-Day: Sun 11 | Night	Humidity: 50%	UV Index: 0 of 10
-	Moonrise: --	Moonset: 13:02
-
-Day: Mon 12 | Day	Humidity: 87%	UV Index: 9 of 10
-
-Day: Mon 12 | Night	Humidity: 60%	UV Index: 0 of 10
-	Moonrise: 00:56	Moonset: 13:55
-
-Day: Tue 13 | Day	Humidity: 60%	UV Index: 9 of 10
-
-Day: Tue 13 | Night	Humidity: 76%	UV Index: 0 of 10
-	Moonrise: 01:54	Moonset: 14:45
-
-Day: Wed 14 | Day	Humidity: 50%	UV Index: 9 of 10
-
-Day: Wed 14 | Night	Humidity: 87%	UV Index: 0 of 10
-	Moonrise: 02:51	Moonset: 15:35
-
-Day: Thu 15 | Day	Humidity: 60%	UV Index: 9 of 10
-
-Day: Thu 15 | Night	Humidity: 60%	UV Index: 0 of 10
-	Moonrise: 03:49	Moonset: 16:22
   
   
   
   
 ------ Manila City Weather for October 1-10----
+
+
 Day: Thu 01 | Night	Humidity: 70%	UV Index: 0 of 10
 	Moonrise: 17:38	Moonset: 05:06
 
@@ -226,30 +175,6 @@ Day: Sat 10 | Day	Humidity: 60%	UV Index: 8 of 10
 Day: Sat 10 | Night	Humidity: 60%	UV Index: 0 of 10
 	Moonrise: --	Moonset: 12:29
 
-Day: Sun 11 | Day	Humidity: 75%	UV Index: 8 of 10
-
-Day: Sun 11 | Night	Humidity: 40%	UV Index: 0 of 10
-	Moonrise: 00:03	Moonset: 13:22
-
-Day: Mon 12 | Day	Humidity: 86%	UV Index: 8 of 10
-
-Day: Mon 12 | Night	Humidity: 50%	UV Index: 0 of 10
-	Moonrise: 01:00	Moonset: 14:13
-
-Day: Tue 13 | Day	Humidity: 50%	UV Index: 8 of 10
-
-Day: Tue 13 | Night	Humidity: 75%	UV Index: 0 of 10
-	Moonrise: 02:00	Moonset: 15:02
-
-Day: Wed 14 | Day	Humidity: 50%	UV Index: 8 of 10
-
-Day: Wed 14 | Night	Humidity: 86%	UV Index: 0 of 10
-	Moonrise: 02:59	Moonset: 15:50
-
-Day: Thu 15 | Day	Humidity: 50%	UV Index: 8 of 10
-
-Day: Thu 15 | Night	Humidity: 50%	UV Index: 0 of 10
-	Moonrise: 03:59	Moonset: 16:36
   
 
 
