@@ -1,4 +1,4 @@
------- Here is the Data that has been scraped in the webscraper website-------
+<h3 align="center">------ Here is the Data that has been scraped in the webscraper website-------</h3>
 
 
 Num:1,Firstname:Mark,Last Name:Otto,Username:@mdo
@@ -32,7 +32,7 @@ Num:3,Firstname:Larry,Last Name:the Bird,Username:@twitter
 
 
 
------- Davao City Weather for October 1-10----
+<h3 align="center">------ Davao City Weather for October 1-10----</h3>
 
 Day: Thu 01 | Day	Humidity: 20%	UV Index: 4 of 10
 
@@ -85,7 +85,7 @@ Day: Sat 10 | Night	Humidity: 50%	UV Index: 0 of 10
 	Moonrise: 23:58	Moonset: 11:56
 	
   
------- Cebu City Weather for October 1-10----
+<h3 align="center">------ Cebu City Weather for October 1-10----</h3>
 
 Day: Thu 01 | Night	Humidity: 50%	UV Index: 0 of 10
 	Moonrise: 17:25	Moonset: 04:56
@@ -138,7 +138,7 @@ Day: Sat 10 | Night	Humidity: 70%	UV Index: 0 of 10
   
   
   
------- Manila City Weather for October 1-10----
+<h3 align="center">------ Manila City Weather for October 1-10----</h3>
 
 Day: Thu 01 | Night	Humidity: 70%	UV Index: 0 of 10
 	Moonrise: 17:38	Moonset: 05:06
