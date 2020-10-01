@@ -2,21 +2,34 @@
 
 
 Num:1,Firstname:Mark,Last Name:Otto,Username:@mdo
+
 Num:2,Firstname:Jacob,Last Name:Thornton,Username:@fat
+
 Num:3,Firstname:Larry,Last Name:the Bird,Username:@twitter
+
 
 Num:4,Firstname:Harry,Last Name:Potter,Username:@hp
+
 Num:5,Firstname:John,Last Name:Snow,Username:@dunno
+
 Num:6,Firstname:Tim,Last Name:Bean,Username:@timbean
 
+
 Num:1,Firstname:Mark,Last Name:Otto,Username:@mdo
+
 Num:2,Firstname:Jacob,Last Name:Thornton,Username:@fat
+
 Num:3,Firstname:Larry,Last Name:the Bird,Username:@twitter
 
+
 Num:-,Firstname:-,Last Name:-,Username:-
+
 Num:1,Firstname:Mark,Last Name:Otto,Username:@mdo
+
 Num:2,Firstname:Jacob,Last Name:Thornton,Username:@fat
+
 Num:3,Firstname:Larry,Last Name:the Bird,Username:@twitter
+
 
 
 ------ Davao City Weather for October 1-10----
@@ -73,6 +86,7 @@ Day: Sat 10 | Night	Humidity: 50%	UV Index: 0 of 10
 	
   
 ------ Cebu City Weather for October 1-10----
+
 Day: Thu 01 | Night	Humidity: 50%	UV Index: 0 of 10
 	Moonrise: 17:25	Moonset: 04:56
 
@@ -125,7 +139,6 @@ Day: Sat 10 | Night	Humidity: 70%	UV Index: 0 of 10
   
   
 ------ Manila City Weather for October 1-10----
-
 
 Day: Thu 01 | Night	Humidity: 70%	UV Index: 0 of 10
 	Moonrise: 17:38	Moonset: 05:06
